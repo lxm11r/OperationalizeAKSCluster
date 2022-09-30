@@ -13,12 +13,12 @@ If not, you can just create a YAML-Manifest by your own, but be aware of the rig
 
 To apply your manifest, use the following command:
 
-<code>
+```
 kubectl apply -f (manifest-filename)
-</code>
+```
 
 To access your freshly deployed container, you can use the following command:
 
-<code>
+```
 kubectl exec -it (pod-name) /bin/bash
-</code>
+```
