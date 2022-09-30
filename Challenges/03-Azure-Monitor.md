@@ -1,5 +1,7 @@
 # Challenge 3: Add Azure Monitor to your environment
 
+[Previous Challenge](./02-Deploy-and-configure.md) - **[Home](../README.md)** - [Next Challenge](./04-Scale-up.md)
+
 ## Introduction
 
 To observe our cluster we now add Azure Monitor to our environment. This is the go-to solution for monitoring Azure services and can directly be connected to our cluster.
